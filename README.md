@@ -1,4 +1,4 @@
-This project investigates public sentiment around nostalgic TV show reboots using YouTube comment data. Shows analyzed include Velma, Teen Titans, Ben 10, Adventure Time: Fionna and Cake, Powerpuff Girls, Rugrats, Animaniacs, Cobra Kai, iCarly, Dexter's Laboratory, and Bel-Air. The goal is to help Cooledtured assess whether investing in reboot-related content aligns with audience interest and sentiment.
+This project investigates public sentiment around nostalgic TV show reboots using YouTube comment data. Shows analyzed include Velma, Teen Titans, Ben 10, Adventure Time: Fionna and Cake, Powerpuff Girls, Rugrats, Animaniacs, Cobra Kai, iCarly, Dexter's Laboratory, and Bel-Air. The goal is to help companies like cooleedtured assess whether investing in reboot-related content aligns with audience interest and sentiment.
 
 
 <br>
@@ -30,7 +30,7 @@ To get this project done, I:
 
 <br>
 
-### **What does this mean for Cooledtured?**
+### **What does this mean?**
 * **Reboots aren't a dead end:** Remember, most shows analyzed had overall positive sentiment
 * **Lean into advertising:** Reboots and live action remakes of movies and shows are a big trend. As the data shows, it would be unwise to ignore them.
 * **Avoid controversy traps:** shows like Velma show how sociopolitical misalignment can spark backlash, even before release.
